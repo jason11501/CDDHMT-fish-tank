@@ -1,6 +1,6 @@
 # fish tank
 # Chuyên đề Đồ họa máy tính
-# Hồ cá 3D object bằng Javascript và HTML5
+# Hồ cá mô phỏng 3D object bằng Javascript và HTML5
 
 ## Install environments
 **Công cụ (Tool):**<br>
