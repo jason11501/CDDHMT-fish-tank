@@ -1,6 +1,6 @@
 # fish tank
 # Chuyên đề Đồ họa máy tính
-# Pyramid 3D object bằng Javascript và HTML5
+# Hồ cá 3D object bằng Javascript và HTML5
 
 ## Install environments
 **Công cụ (Tool):**<br>
